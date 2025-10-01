@@ -46,8 +46,6 @@ Connexion à une base de données SQL pour stocker les informations
 │── projet_version1.zip     
 │── README.md               
 
-🔹 Capture d’écran
-
 🔹 Lien GitHub
 
 Voir le projet sur GitHub
