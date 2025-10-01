@@ -37,13 +37,14 @@ Connexion à une base de données SQL pour stocker les informations
 
 🔹 Structure du projet
 /But1_s2_sae_complete_website
-│── app.py                  # Fichier principal Flask
-│── connexion_db.py         # Connexion à la base de données
-│── flask_run.sh            # Script pour exécuter l’application
-│── sae.env                 # Fichier de configuration de l’environnement
-│── sae_sql.sql             # Script SQL pour créer la base de données
-│── projet_version1.zip     # Archive de la première version
-│── README.md               # Documentation du projet
+
+│── app.py                   
+│── connexion_db.py         
+│── flask_run.sh            
+│── sae.env                 
+│── sae_sql.sql             
+│── projet_version1.zip     
+│── README.md               
 
 🔹 Capture d’écran
 
